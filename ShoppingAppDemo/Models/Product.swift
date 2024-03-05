@@ -7,4 +7,10 @@
 
 import Foundation
 
+struct Product: Identifiable{
+    var id = UUID()
+    
+    
+}
+
 

@@ -96,10 +96,10 @@
 		B86B824A2B95F03B00F018FD /* ShoppingAppDemo */ = {
 			isa = PBXGroup;
 			children = (
-				B86B82752B95F28300F018FD /* Models */,
 				B86B824B2B95F03B00F018FD /* ShoppingAppDemoApp.swift */,
 				B86B824D2B95F03B00F018FD /* ContentView.swift */,
 				B86B824F2B95F03D00F018FD /* Assets.xcassets */,
+				B86B82752B95F28300F018FD /* Models */,
 				B86B82512B95F03D00F018FD /* Preview Content */,
 			);
 			path = ShoppingAppDemo;
